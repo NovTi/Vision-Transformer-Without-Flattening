@@ -1,0 +1,1 @@
+## Finish the structure of the ViT without flattening, waiting for training
